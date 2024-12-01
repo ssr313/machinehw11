@@ -36,7 +36,7 @@
 - **精确率（Precision）**：0.909715
 - **召回率（Recall）**：0.909605
 - **混淆矩阵（Confusion Matrix）**：
-![image](https://github.com/user-attachments/assets/6c7df10d-bbac-4c40-a231-0e85aae83db5)
+- ![image](https://github.com/user-attachments/assets/6c7df10d-bbac-4c40-a231-0e85aae83db5)
 
 ## 代码文件
 - **模型定义**：包含模型的定义。
